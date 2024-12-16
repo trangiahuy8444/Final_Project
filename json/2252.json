@@ -1,0 +1,57 @@
+[
+    {
+        "subject": {
+            "class": "man"
+        },
+        "relation": {
+            "class": "wearing"
+        },
+        "object": {
+            "class": "shirt"
+        }
+    },
+    {
+        "subject": {
+            "class": "people"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "sidewalk"
+        }
+    },
+    {
+        "subject": {
+            "class": "car"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "street"
+        }
+    },
+    {
+        "subject": {
+            "class": "window"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "building"
+        }
+    },
+    {
+        "subject": {
+            "class": "sign"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "building"
+        }
+    }
+]

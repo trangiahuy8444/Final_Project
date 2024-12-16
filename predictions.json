@@ -1,0 +1,112 @@
+[
+    {
+        "subject": {
+            "class": "man"
+        },
+        "relation": {
+            "class": "walking on"
+        },
+        "object": {
+            "class": "sidewalk"
+        }
+    },
+    {
+        "subject": {
+            "class": "tree"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "sidewalk"
+        }
+    },
+    {
+        "subject": {
+            "class": "man"
+        },
+        "relation": {
+            "class": "wearing"
+        },
+        "object": {
+            "class": "shirt"
+        }
+    },
+    {
+        "subject": {
+            "class": "man"
+        },
+        "relation": {
+            "class": "wearing"
+        },
+        "object": {
+            "class": "pant"
+        }
+    },
+    {
+        "subject": {
+            "class": "man"
+        },
+        "relation": {
+            "class": "carrying"
+        },
+        "object": {
+            "class": "bag"
+        }
+    },
+    {
+        "subject": {
+            "class": "man"
+        },
+        "relation": {
+            "class": "wearing"
+        },
+        "object": {
+            "class": "shoe"
+        }
+    },
+    {
+        "subject": {
+            "class": "man"
+        },
+        "relation": {
+            "class": "has"
+        },
+        "object": {
+            "class": "hair"
+        }
+    },
+    {
+        "subject": {
+            "class": "head"
+        },
+        "relation": {
+            "class": "of"
+        },
+        "object": {
+            "class": "man"
+        }
+    },
+    {
+        "subject": {
+            "class": "car"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "street"
+        }
+    },
+    {
+        "subject": {
+            "class": "tree"
+        },
+        "relation": {
+            "class": "has"
+        },
+        "object": {
+            "class": "trunk"
+        }
+    }
+]

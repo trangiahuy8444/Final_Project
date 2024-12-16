@@ -1,0 +1,90 @@
+[
+    {
+        "subject": {
+            "class": "cup"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "counter"
+        }
+    },
+    {
+        "subject": {
+            "class": "cup"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "table"
+        }
+    },
+    {
+        "subject": {
+            "class": "plate"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "counter"
+        }
+    },
+    {
+        "subject": {
+            "class": "shirt"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "boy"
+        }
+    },
+    {
+        "subject": {
+            "class": "man"
+        },
+        "relation": {
+            "class": "wearing"
+        },
+        "object": {
+            "class": "shirt"
+        }
+    },
+    {
+        "subject": {
+            "class": "man"
+        },
+        "relation": {
+            "class": "wearing"
+        },
+        "object": {
+            "class": "pant"
+        }
+    },
+    {
+        "subject": {
+            "class": "man"
+        },
+        "relation": {
+            "class": "has"
+        },
+        "object": {
+            "class": "hand"
+        }
+    },
+    {
+        "subject": {
+            "class": "hand"
+        },
+        "relation": {
+            "class": "of"
+        },
+        "object": {
+            "class": "boy"
+        }
+    }
+]

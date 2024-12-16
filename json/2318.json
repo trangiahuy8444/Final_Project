@@ -1,0 +1,68 @@
+[
+    {
+        "subject": {
+            "class": "flag"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "building"
+        }
+    },
+    {
+        "subject": {
+            "class": "building"
+        },
+        "relation": {
+            "class": "has"
+        },
+        "object": {
+            "class": "window"
+        }
+    },
+    {
+        "subject": {
+            "class": "person"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "sidewalk"
+        }
+    },
+    {
+        "subject": {
+            "class": "window"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "building"
+        }
+    },
+    {
+        "subject": {
+            "class": "flag"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "pole"
+        }
+    },
+    {
+        "subject": {
+            "class": "car"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "street"
+        }
+    }
+]

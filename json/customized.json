@@ -1,0 +1,156 @@
+[
+    {
+        "subject": {
+            "class": "man"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "bike"
+        }
+    },
+    {
+        "subject": {
+            "class": "man"
+        },
+        "relation": {
+            "class": "wearing"
+        },
+        "object": {
+            "class": "shirt"
+        }
+    },
+    {
+        "subject": {
+            "class": "man"
+        },
+        "relation": {
+            "class": "riding"
+        },
+        "object": {
+            "class": "bike"
+        }
+    },
+    {
+        "subject": {
+            "class": "house"
+        },
+        "relation": {
+            "class": "has"
+        },
+        "object": {
+            "class": "window"
+        }
+    },
+    {
+        "subject": {
+            "class": "car"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "street"
+        }
+    },
+    {
+        "subject": {
+            "class": "window"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "building"
+        }
+    },
+    {
+        "subject": {
+            "class": "helmet"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "head"
+        }
+    },
+    {
+        "subject": {
+            "class": "man"
+        },
+        "relation": {
+            "class": "wearing"
+        },
+        "object": {
+            "class": "pant"
+        }
+    },
+    {
+        "subject": {
+            "class": "man"
+        },
+        "relation": {
+            "class": "wearing"
+        },
+        "object": {
+            "class": "short"
+        }
+    },
+    {
+        "subject": {
+            "class": "sign"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "pole"
+        }
+    },
+    {
+        "subject": {
+            "class": "man"
+        },
+        "relation": {
+            "class": "wearing"
+        },
+        "object": {
+            "class": "helmet"
+        }
+    },
+    {
+        "subject": {
+            "class": "plate"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "car"
+        }
+    },
+    {
+        "subject": {
+            "class": "building"
+        },
+        "relation": {
+            "class": "has"
+        },
+        "object": {
+            "class": "window"
+        }
+    },
+    {
+        "subject": {
+            "class": "tire"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "car"
+        }
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "subject": {
+            "class": "tree"
+        },
+        "relation": {
+            "class": "near"
+        },
+        "object": {
+            "class": "building"
+        }
+    },
+    {
+        "subject": {
+            "class": "man"
+        },
+        "relation": {
+            "class": "wearing"
+        },
+        "object": {
+            "class": "shirt"
+        }
+    },
+    {
+        "subject": {
+            "class": "sign"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "pole"
+        }
+    },
+    {
+        "subject": {
+            "class": "sign"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "sidewalk"
+        }
+    },
+    {
+        "subject": {
+            "class": "man"
+        },
+        "relation": {
+            "class": "wearing"
+        },
+        "object": {
+            "class": "short"
+        }
+    },
+    {
+        "subject": {
+            "class": "window"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "building"
+        }
+    },
+    {
+        "subject": {
+            "class": "leaf"
+        },
+        "relation": {
+            "class": "on"
+        },
+        "object": {
+            "class": "tree"
+        }
+    },
+    {
+        "subject": {
+            "class": "building"
+        },
+        "relation": {
+            "class": "has"
+        },
+        "object": {
+            "class": "window"
+        }
+    },
+    {
+        "subject": {
+            "class": "pole"
+        },
+        "relation": {
+            "class": "near"
+        },
+        "object": {
+            "class": "building"
+        }
+    }
+]
